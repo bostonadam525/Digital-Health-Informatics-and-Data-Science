@@ -1,5 +1,6 @@
 # Data Science with FHIR and DICOM Data
 * This folder contains resources and code for doing Data Science with data extractions from FHIR and DICOM datasets.
+* Folder put together by Adam Lang
 
 
 ## Data Science with FHIR - Resources
