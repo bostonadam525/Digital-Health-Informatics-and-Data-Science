@@ -8,12 +8,30 @@
 
 
 
-# List of Resources 
+# Transformers and LLM Based Model Resources
+1. [SNOBERT transformers repo](https://github.com/MikhailKulyabin/SNOBERT)
+2. [AstraZeneca Kazu - Biomedical NLP Framework](https://github.com/AstraZeneca/KAZU)
+3. [BERN2 - Advanced Biomedical Entity Recognition and Normalization](https://github.com/dmis-lab/BERN2)
+4. [BioBERT - dmislab](https://github.com/dmis-lab/biobert)
+5. [BioLORD models](https://huggingface.co/FremyCompany)
+6. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
+7. [Google MedPalm model](https://github.com/kyegomez/Med-PaLM)
+
+
+
+# Clinical Healthcare Knowledge Graphs/Graph Databases/Ontologies Resources
 1. [Puppy Graph - Healthcare](https://www.puppygraph.com/healthcare)
 2. [REBEL triplets extraction open source graph model](https://huggingface.co/Babelscape/rebel-large)
 3. [MemGraph](https://memgraph.com/)
-4. [SNOBERT transformers repo](https://github.com/MikhailKulyabin/SNOBERT)
-5. [PetBERT model](https://huggingface.co/SAVSNET/PetBERT)
-6. [BioLORD models](https://huggingface.co/FremyCompany)
-7. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
-8. [Google MedPalm model](https://github.com/kyegomez/Med-PaLM)
+4. [Biomedical Knowledge Graph Implementation](https://github.com/alisonmitchell/Biomedical-Knowledge-Graph)
+5. [Awesome-HealthCare-KnowledgeBase](https://github.com/lujiaying/Awesome-HealthCare-KnowledgeBase)
+6. [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
+7. [Neo4j - Construct a biomedical knowledge graph with NLP](https://medium.com/data-science/construct-a-biomedical-knowledge-graph-with-nlp-1f25eddc54a0)
+8. [Neo4j - Medical Subject Headings - MESH](https://neo4j.com/blog/developer/mesh-into-neo4j/)
+
+
+# List of Veterinary Medicine Resources
+1. [PetBERT model](https://huggingface.co/SAVSNET/PetBERT)
+2. [OpenPetCare - open source FHIR system for PHRs](https://github.com/TrivaWatlington/OpenPetCare)
+3. [Comparative Veterinary Informatics Workshop](https://monarchinit.medium.com/comparative-veterinary-informatics-workshop-848ce0a3fcb7)
+4. [Fine-tuning foundational models to code diagnoses from veterinary health records](https://arxiv.org/html/2410.15186v1)
