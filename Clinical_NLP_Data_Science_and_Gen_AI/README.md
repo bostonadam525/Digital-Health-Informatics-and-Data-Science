@@ -16,6 +16,7 @@
 5. [BioLORD models](https://huggingface.co/FremyCompany)
 6. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
 7. [Google MedPalm model](https://github.com/kyegomez/Med-PaLM)
+8. [Modern BERT Radiology Machine Learning -- multi label classifier](https://radml.substack.com/p/modernbert-in-radiology-part-1-simple)
 
 
 
