@@ -30,6 +30,9 @@
 8. [Neo4j - Construct a biomedical knowledge graph with NLP](https://medium.com/data-science/construct-a-biomedical-knowledge-graph-with-nlp-1f25eddc54a0)
 9. [Neo4j - Medical Subject Headings - MESH](https://neo4j.com/blog/developer/mesh-into-neo4j/)
 10. [Neo4j - Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://medium.com/neo4j/entity-linking-and-relationship-extraction-with-relik-in-llamaindex-ca18892c169f)
+11. [Building a Knowledge Base from Texts: a Full Practical Example](https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
+12. [Building a knowledge base from Text with relation extraction, entity recognition and entity linking](https://www.nlplanet.org/course-practical-nlp/02-practical-nlp-first-tasks/16-knowledge-graph-from-text)
+13. [Make Meaningful Knowledge Graph from OpenSource REBEL Model](https://medium.com/@haiyangli_38602/make-meaningful-knowledge-graph-from-opensource-rebel-model-6f9729a55527)
 
 
 # List of Veterinary Medicine Resources
