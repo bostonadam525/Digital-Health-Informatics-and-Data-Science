@@ -16,9 +16,17 @@
 5. [BioMistral](https://huggingface.co/BioMistral)
 6. [BioLORD models](https://huggingface.co/FremyCompany)
 7. [nlpie transformer models - hugging face collection](https://huggingface.co/nlpie)
-8. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
-9. [Google MedPalm model](https://github.com/kyegomez/Med-PaLM)
-10. [Modern BERT Radiology Machine Learning -- multi label classifier](https://radml.substack.com/p/modernbert-in-radiology-part-1-simple)
+8. [Google MedPalm model](https://github.com/kyegomez/Med-PaLM)
+
+## Radiology Specific
+1. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
+2. [Modern BERT Radiology Machine Learning -- multi label classifier](https://radml.substack.com/p/modernbert-in-radiology-part-1-simple)
+3. [Project MAIRA - Microsoft Open Source Models for Radiology Report Generation](https://www.microsoft.com/en-us/research/project/project-maira/)
+4. [RadBERT](https://github.com/zzxslp/RadBERT?tab=readme-ov-file)
+
+
+## Disease Specific 
+1. [Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis](https://github.com/MAGIC-AI4Med/KEEP?tab=readme-ov-file)
 
 
 
