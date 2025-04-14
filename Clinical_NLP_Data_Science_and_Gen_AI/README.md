@@ -45,7 +45,7 @@
 ## Ontology Mapping, Linking, Resolution
 1. [Relik - Relation Extraction Models](https://github.com/SapienzaNLP/relik)
 2. [John Snow Labs - Resolve entities to terminology codes](https://nlp.johnsnowlabs.com/resolve_entities_codes)
-3. [John Snow Labgs - Mapping Rxnorm and NDC Codes to the National Institute of Health (NIH) Drug Brand Names with Spark NLP](https://medium.com/john-snow-labs/mapping-rxnorm-and-ndc-codes-to-the-nih-drug-brand-names-with-spark-nlp-e10eeb7e122c)
+3. [John Snow Labs - Mapping Rxnorm and NDC Codes to the National Institute of Health (NIH) Drug Brand Names with Spark NLP](https://medium.com/john-snow-labs/mapping-rxnorm-and-ndc-codes-to-the-nih-drug-brand-names-with-spark-nlp-e10eeb7e122c)
 4. [scispaCy Entity Linkers for Biomedical Named Entities](https://oyewusiwuraola.medium.com/how-to-use-scispacy-entity-linkers-for-biomedical-named-entities-7cf13b29ef67)
 5. [scispaCy - github](https://github.com/allenai/scispacy)
 6. [Building a Biomedical Entity Linker with LLMs](https://towardsdatascience.com/building-a-biomedical-entity-linker-with-llms-d385cb85c15a/)
