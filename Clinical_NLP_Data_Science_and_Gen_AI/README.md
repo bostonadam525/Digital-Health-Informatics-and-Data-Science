@@ -28,6 +28,11 @@
 1. [Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis](https://github.com/MAGIC-AI4Med/KEEP?tab=readme-ov-file)
 2. [MINDS - Multimodal Oncology Data](https://github.com/lab-rasool/MINDS)
 3. [HoneyBee Open source framework](https://lab-rasool.github.io/HoneyBee/)
+4. [Sanofi Public - Clinical BERT Explainability](https://github.com/Sanofi-Public/Clinical-BERT-Explainability/tree/main?tab=readme-ov-file)
+5. [TransformEHR: transformer-based encoder-decoder generative model to enhance prediction of disease outcomes using electronic health records](https://www.nature.com/articles/s41467-023-43715-z)
+6. [TransformEHR github](https://github.com/whaleloops/TransformEHR/)
+7. [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](https://www.nature.com/articles/s41746-021-00455-y)
+8. [Med-BERT github - Pytorch](https://github.com/ZhiGroup/pytorch_ehr)
 
 
 ---
