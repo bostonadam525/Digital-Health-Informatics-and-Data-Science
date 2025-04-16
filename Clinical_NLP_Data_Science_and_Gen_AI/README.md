@@ -77,7 +77,7 @@
 5. [OntoGPT](https://github.com/monarch-initiative/ontogpt)
 
 ### Entity Linking
-1.[SNOBERT: A Benchmark for clinical notes entity linking in the SNOMED CT clinical terminology](https://github.com/MikhailKulyabin/SNOBERT)
+1. [SNOBERT: A Benchmark for clinical notes entity linking in the SNOMED CT clinical terminology](https://github.com/MikhailKulyabin/SNOBERT)
 
 2. [scispaCy Entity Linkers for Biomedical Named Entities](https://oyewusiwuraola.medium.com/how-to-use-scispacy-entity-linkers-for-biomedical-named-entities-7cf13b29ef67)
 
