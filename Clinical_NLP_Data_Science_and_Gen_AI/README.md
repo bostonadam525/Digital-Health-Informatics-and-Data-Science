@@ -78,11 +78,16 @@
 
 ### Entity Linking
 1.[SNOBERT: A Benchmark for clinical notes entity linking in the SNOMED CT clinical terminology](https://github.com/MikhailKulyabin/SNOBERT)
+
 2. [scispaCy Entity Linkers for Biomedical Named Entities](https://oyewusiwuraola.medium.com/how-to-use-scispacy-entity-linkers-for-biomedical-named-entities-7cf13b29ef67)
+
 3. [scispaCy - github](https://github.com/allenai/scispacy)
+
 4. [NVIDIA Nemo - UMLS Entity Linking](https://github.com/NVIDIA/NeMo/blob/r1.7.2/tutorials/nlp/Entity_Linking_Medical.ipynb)
-4. [Building a Biomedical Entity Linker with LLMs](https://towardsdatascience.com/building-a-biomedical-entity-linker-with-llms-d385cb85c15a/)
-5. [Improving biomedical entity linking for complex entity mentions with LLM-based text simplification](https://pmc.ncbi.nlm.nih.gov/articles/PMC11281847/)
+  
+5. [Building a Biomedical Entity Linker with LLMs](https://towardsdatascience.com/building-a-biomedical-entity-linker-with-llms-d385cb85c15a/)
+
+6. [Improving biomedical entity linking for complex entity mentions with LLM-based text simplification](https://pmc.ncbi.nlm.nih.gov/articles/PMC11281847/)
 
 
 ### Named Entity Recognition (NER)
