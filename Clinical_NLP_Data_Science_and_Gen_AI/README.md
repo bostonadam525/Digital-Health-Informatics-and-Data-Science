@@ -2,6 +2,14 @@
 * This repo contains techniques, resources, code, and experiments related to Clinical NLP Data Science and Generative AI.
 
 ---
+# Open Data Resources
+1. [AWS Registry of Open Data](https://registry.opendata.aws/)
+2. [National Library of Medicine Open Image Search](https://openi.nlm.nih.gov/)
+3. [National Library of Medicine](https://www.nlm.nih.gov/)
+4. [University of Minnesota NLP - Institute for Health Informatics - Open Data](https://healthinformatics.umn.edu/natural-language-processing/resources)
+5. [Stanford University - EHR Shot Benchmark for Few-Shot Evaluation of Foundation Models](https://som-shahlab.github.io/ehrshot-website/)
+
+---
 
 # Transformers & LLM Based Model Resources
 1. [BioBERT - dmislab](https://github.com/dmis-lab/biobert)
