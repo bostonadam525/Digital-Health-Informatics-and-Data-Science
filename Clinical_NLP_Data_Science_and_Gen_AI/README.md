@@ -42,6 +42,10 @@
 7. [Med-BERT: pretrained contextualized embeddings on large-scale structured electronic health records for disease prediction](https://www.nature.com/articles/s41746-021-00455-y)
 8. [Med-BERT github - Pytorch](https://github.com/ZhiGroup/pytorch_ehr)
 
+## Phenotyping
+1. [PheKB](https://phekb.org/)
+2. [PheCode](https://www.vumc.org/wei-lab/phecode)
+3. [AstraZeneca PheWAS Portal](https://azphewas.com/)
 
 ---
 # Clinical Healthcare Knowledge Graphs & Graph Databases | Ontology Mapping, Linking, Resolution Resources
@@ -107,8 +111,26 @@
 6. [UMLS KGI BERT hugging face english model](https://huggingface.co/a-mannion/umls-kgi-bert-en)
 
 ---
-# List of Veterinary Medicine Resources
+# Veterinary Medicine Resources
 1. [PetBERT model](https://huggingface.co/SAVSNET/PetBERT)
 2. [OpenPetCare - open source FHIR system for PHRs](https://github.com/TrivaWatlington/OpenPetCare)
 3. [Comparative Veterinary Informatics Workshop](https://monarchinit.medium.com/comparative-veterinary-informatics-workshop-848ce0a3fcb7)
 4. [Fine-tuning foundational models to code diagnoses from veterinary health records](https://arxiv.org/html/2410.15186v1)
+
+
+## Veterinary Medical Coding
+1. [Does Medical Billing and Coding Exist in the Veterinary Field?](https://www.linkedin.com/pulse/does-medical-billing-coding-exist-veterinary-kazie/)
+2. [FasTag: Automatic text classification of unstructured medical narratives](https://pubmed.ncbi.nlm.nih.gov/32569327/)
+3. [VetTag: improving automated veterinary diagnosis coding via large-scale language modeling](https://www.nature.com/articles/s41746-019-0113-1#MOESM1)
+4. [VetTag github](https://github.com/yuhui-zh15/VetTag)
+5. [DeepTag: inferring diagnoses from veterinary clinical notes](https://pmc.ncbi.nlm.nih.gov/articles/PMC6550285/)
+
+
+# Veterinary Ontologies
+1. [Virginia Tech - SNOMED-CT Veterinary Extension](https://vtsl.vetmed.vt.edu/)
+2. [The Vertebrate Breed Ontology (VBO)](https://monarch-initiative.github.io/vertebrate-breed-ontology/)
+3. [Unified Phenotype Ontology](https://obophenotype.github.io/upheno/)
+4. [Uberon Multi-species Anatomy Ontology](https://obophenotype.github.io/uberon/)
+5. [OMIA - Online Mendelian Inheritance in Animals](https://omia.org/home/)
+6. [Mondo Disease Ontology](https://mondo.monarchinitiative.org/)
+7. [Dog10k Database](https://dog10k.kiz.ac.cn/Home/index)
