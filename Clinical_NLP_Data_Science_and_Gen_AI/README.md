@@ -19,17 +19,21 @@
 5. [Google MedPalm model](https://github.com/kyegomez/Med-PaLM)
 
 ## Radiology Specific
-1. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
-2. [Modern BERT Radiology Machine Learning -- multi label classifier](https://radml.substack.com/p/modernbert-in-radiology-part-1-simple)
-3. [Project MAIRA - Microsoft Open Source Models for Radiology Report Generation](https://www.microsoft.com/en-us/research/project/project-maira/)
-4. [RadBERT](https://github.com/zzxslp/RadBERT?tab=readme-ov-file)
-5. [PYCAD - DICOM medical imaging manipulation](https://github.com/amine0110/pycad)
-6. [Radiology-Infer-Mini - Multimodal Model](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini)
-7. [Radiology-Infer-Mini - Multimodal Model - hugging face files demo](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini/tree/main)
-8. [VLMs in Medical image diagnosis and classification](https://github.com/XiangQA-Q/VLM-in-MIA)
-9. [Awesome Vision-Language Models (VLMs) for Medical Report Generation (RG) and Visual Question Answering (VQA)](https://github.com/lab-rasool/Awesome-Medical-VLMs-and-Datasets)
+1. [MIDeL — Medical Image Deep Learning - Mayo Clinic Informatics](https://mayo-radiology-informatics-lab.github.io/MIDeL/index.html)
+2. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
+3. [Modern BERT Radiology Machine Learning -- multi label classifier](https://radml.substack.com/p/modernbert-in-radiology-part-1-simple)
+4. [Project MAIRA - Microsoft Open Source Models for Radiology Report Generation](https://www.microsoft.com/en-us/research/project/project-maira/)
+5. [RadBERT](https://github.com/zzxslp/RadBERT?tab=readme-ov-file)
+6. [PYCAD - DICOM medical imaging manipulation](https://github.com/amine0110/pycad)
+7. [Radiology-Infer-Mini - Multimodal Model](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini)
+8. [Radiology-Infer-Mini - Multimodal Model - hugging face files demo](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini/tree/main)
+9. [VLMs in Medical image diagnosis and classification](https://github.com/XiangQA-Q/VLM-in-MIA)
+10. [Awesome Vision-Language Models (VLMs) for Medical Report Generation (RG) and Visual Question Answering (VQA)](https://github.com/lab-rasool/Awesome-Medical-VLMs-and-Datasets)
+11. [Best Practices for Large Language Models in Radiology](https://arxiv.org/html/2412.01233v1)
 
-
+## Pathology & Histopathology Specific
+1. [Computer Vision for Histopathology](https://pixelscientia.com/articles/getting-started-with-computer-vision-for-histopathology/)
+2. 
 
 
 ## Disease Specific 
@@ -64,6 +68,7 @@
 10. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://medium.com/data-science/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759)
 11. [Make Meaningful Knowledge Graph from OpenSource REBEL Model](https://medium.com/@haiyangli_38602/make-meaningful-knowledge-graph-from-opensource-rebel-model-6f9729a55527)
 12. [Cognee - Enhancing Knowledge Graphs with Ontology Integration](https://www.cognee.ai/blog/deep-dives/ontology-ai-memory)
+13. [CocoIndex - Extract, Transform, Index Data. Easy and Fresh](https://github.com/cocoindex-io/cocoindex)
 
 
 ### Neo4j 
@@ -116,14 +121,22 @@
 2. [OpenPetCare - open source FHIR system for PHRs](https://github.com/TrivaWatlington/OpenPetCare)
 3. [Comparative Veterinary Informatics Workshop](https://monarchinit.medium.com/comparative-veterinary-informatics-workshop-848ce0a3fcb7)
 4. [Fine-tuning foundational models to code diagnoses from veterinary health records](https://arxiv.org/html/2410.15186v1)
+5. [VetCompass - Knowledge Hub](https://www.rvc.ac.uk/vetcompass)
+   * [VetCompass - Open Access Data](https://www.rvc.ac.uk/vetcompass/papers-and-data/open-access-data)
+6. [VSSO - Veterinary Society of Surgical Oncology (VSSO)](https://vsso.org/)
+   * [Canine Cancer](https://vsso.org/dog-cancer-type)
+   * [Feline Cancer](https://vsso.org/cat-cancer-type)
+
+7. [Today's Veterinary Practice](https://todaysveterinarypractice.com/)
 
 
 ## Veterinary Medical Coding
-1. [Does Medical Billing and Coding Exist in the Veterinary Field?](https://www.linkedin.com/pulse/does-medical-billing-coding-exist-veterinary-kazie/)
-2. [FasTag: Automatic text classification of unstructured medical narratives](https://pubmed.ncbi.nlm.nih.gov/32569327/)
-3. [VetTag: improving automated veterinary diagnosis coding via large-scale language modeling](https://www.nature.com/articles/s41746-019-0113-1#MOESM1)
-4. [VetTag github](https://github.com/yuhui-zh15/VetTag)
-5. [DeepTag: inferring diagnoses from veterinary clinical notes](https://pmc.ncbi.nlm.nih.gov/articles/PMC6550285/)
+1. [VeNom Codes](https://venomcoding.org/venom-codes/)
+2. [Does Medical Billing and Coding Exist in the Veterinary Field?](https://www.linkedin.com/pulse/does-medical-billing-coding-exist-veterinary-kazie/)
+3. [FasTag: Automatic text classification of unstructured medical narratives](https://pubmed.ncbi.nlm.nih.gov/32569327/)
+4. [VetTag: improving automated veterinary diagnosis coding via large-scale language modeling](https://www.nature.com/articles/s41746-019-0113-1#MOESM1)
+5. [VetTag github](https://github.com/yuhui-zh15/VetTag)
+6. [DeepTag: inferring diagnoses from veterinary clinical notes](https://pmc.ncbi.nlm.nih.gov/articles/PMC6550285/)
 
 
 # Veterinary Ontologies
