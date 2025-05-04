@@ -82,6 +82,10 @@
 ### TigerGraph
 1. [TigerGraph with BERN2 Biomedical Knowledge Graph](https://medium.com/@sudha.vijayakumar_74093/implementing-a-biomedical-knowledge-graph-using-bern2-and-tigergraph-56a5e670782a)
 
+
+### Ontotext
+1. [PubMiner AI with Ontotext](https://www.ontotext.com/blog/advancing-automatic-knowledge-extraction-with-pubminer/)
+
 ---
 
 ## Ontology Based Entity Mapping, Entity Recognition, Entity Linking, Entity Resolution
@@ -118,16 +122,17 @@
 ---
 # Veterinary Medicine Resources
 1. [PetBERT model](https://huggingface.co/SAVSNET/PetBERT)
-2. [OpenPetCare - open source FHIR system for PHRs](https://github.com/TrivaWatlington/OpenPetCare)
-3. [Comparative Veterinary Informatics Workshop](https://monarchinit.medium.com/comparative-veterinary-informatics-workshop-848ce0a3fcb7)
-4. [Fine-tuning foundational models to code diagnoses from veterinary health records](https://arxiv.org/html/2410.15186v1)
-5. [VetCompass - Knowledge Hub](https://www.rvc.ac.uk/vetcompass)
+2. [VetBERT model](https://huggingface.co/havocy28/VetBERT)
+3. [OpenPetCare - open source FHIR system for PHRs](https://github.com/TrivaWatlington/OpenPetCare)
+4. [Comparative Veterinary Informatics Workshop](https://monarchinit.medium.com/comparative-veterinary-informatics-workshop-848ce0a3fcb7)
+5. [Fine-tuning foundational models to code diagnoses from veterinary health records](https://arxiv.org/html/2410.15186v1)
+6. [VetCompass - Knowledge Hub](https://www.rvc.ac.uk/vetcompass)
    * [VetCompass - Open Access Data](https://www.rvc.ac.uk/vetcompass/papers-and-data/open-access-data)
-6. [VSSO - Veterinary Society of Surgical Oncology (VSSO)](https://vsso.org/)
+7. [VSSO - Veterinary Society of Surgical Oncology (VSSO)](https://vsso.org/)
    * [Canine Cancer](https://vsso.org/dog-cancer-type)
    * [Feline Cancer](https://vsso.org/cat-cancer-type)
 
-7. [Today's Veterinary Practice](https://todaysveterinarypractice.com/)
+8. [Today's Veterinary Practice](https://todaysveterinarypractice.com/)
 
 
 ## Veterinary Medical Coding
