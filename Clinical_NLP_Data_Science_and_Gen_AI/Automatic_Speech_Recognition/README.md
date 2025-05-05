@@ -2,11 +2,14 @@
 * A repo devoted to all things ASR in Clinical Data Science and Generative AI. 
 
 
+---
+# Conversational AI
 
 
 
-
-
+## Resources for Conversational AI
+1. [MTS Dialog](https://github.com/abachaa/MTS-Dialog)
+---
 # Common Metrics for ASR Evaluation
 1. **Word Error Rate (WER)**
   * WER is a widely used metric that calculates the percentage of errors in the transcript compared to a reference transcript.
