@@ -79,6 +79,28 @@
         * **Removing Filler Words**: Removing words like "um" or "uh" that don't add to the content.
 
 
+11. **Textual Entailment**
+    * MedNLI is the most commonly used.
+   
+12. **Hallucination Detection**
+    * Detailed in this paper [Analyzing LLM Behavior in Dialogue Summarization: Uneviling Circumstanial Hallucination Trends](https://aclanthology.org/2024.acl-long.677/)
+    * Research from [ABRIDGE AI](https://www.abridge.com/ai/publications)
+    * Techniques Mentioned
+      1. Span Detection
+      2. Binary Classification
+     
+
+13. **BioLORD**
+    * [Link to Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11339519/)
+    * Main contributions
+      1. The expansion of our training corpus by supplementing its existing knowledge with new LLMs-generated definitions for 400 000 concepts, fusing knowledge graph and LLM insights inside the LORD pretraining (e.g. UMLS, SNOMED-CT)
+      2. The introduction of a novel self-distillation technique to speed up biomedical knowledge acquisition while preserving the language understanding capabilities of the BioLORD-type models.
+      3. The delivery of a state-of-the-art multilingual model for the biomedical domain, using a proven cross-lingual distillation technique.
+   * Use Cases
+      1. **Clinical Semantic Textual Similarity**
+      2. **Biomedical Concept Representation**
+      3. **Biomedical Named Entity Linking**
+
 ## Resources for Evaluation Metrics for ASR
 1. [HuggingFace Audio Course](https://huggingface.co/learn/audio-course/en/chapter5/evaluation)
 2. [Carnegie Mellon University 2025 Paper - On the Robust Approximation of ASR Metrics](https://arxiv.org/html/2502.12408v1)
