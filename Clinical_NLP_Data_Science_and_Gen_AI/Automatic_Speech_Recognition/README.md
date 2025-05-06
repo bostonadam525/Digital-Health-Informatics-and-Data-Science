@@ -91,7 +91,14 @@
      
 
 13. **BioLORD**
-    * [Link to Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11339519/)
+    * BioLORD introduces **semantic context to enrich biomedical representations.**
+    * The authors pair concepts with texts, which can be either their definitions or descriptions.
+    * The definitions are sourced directly from the **UMLS ontology, but these are available for only ~5% of the concepts.**
+    * To extend the semantic coverage for the other concepts, the authors generate simple descriptions based on the concept-to-concept relations present in the UMLS knowledge graph.
+    * Example: `Template: “[more-generic-concept] which [has-relationship-with] [related-concept]”​`
+    * The concepts and their respective contexts are then used as positive pairs in a contrastive learning setting, where positive pairs are attracted in the embedding space, and negative ones are repelled.
+    * A detail: one concept may have different names. Thus, there may be more than one pair referring to the same concept. Ideally, these will all end up close in the trained embedding space.
+
     * Main contributions
       1. The expansion of our training corpus by supplementing its existing knowledge with new LLMs-generated definitions for 400 000 concepts, fusing knowledge graph and LLM insights inside the LORD pretraining (e.g. UMLS, SNOMED-CT)
       2. The introduction of a novel self-distillation technique to speed up biomedical knowledge acquisition while preserving the language understanding capabilities of the BioLORD-type models.
@@ -100,6 +107,25 @@
       1. **Clinical Semantic Textual Similarity**
       2. **Biomedical Concept Representation**
       3. **Biomedical Named Entity Linking**
+    
+ * BioLORD Resources
+   1. (Remy et al. 2022 - BioLORD: Learning Ontological Representations from Definitions (for Biomedical Concepts and their Textual Descriptions)[https://arxiv.org/abs/2210.11892]
+   2. (Remy et al. 2023 - BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights)[https://arxiv.org/abs/2311.16075]
+(BioLORD: Contrastive learning for biomedical concepts)[https://hossboll.medium.com/biolord-contrastive-learning-for-biomedical-concepts-32c453f7a830]
+   3. Hugging Face - BioLORD Dataset: https://huggingface.co/datasets/FremyCompany/BioLORD-Dataset
+   4. Hugging Face - BioLORD Sentence Transformers model: https://huggingface.co/FremyCompany/BioLORD-2023-S
+
+
+
+
+14. **Relation Extraction**
+    * Relik is a recent open source model that is pre-trained for relation extraction and entity linking.
+    * [Relik github](https://github.com/SapienzaNLP/relik?tab=readme-ov-file)
+   
+
+15. **Relational Triples Extraction**
+    * Another open source model for triples/relation extraction is REBEL.
+    * [REBEL github](https://github.com/Babelscape/rebel)
 
 ## Resources for Evaluation Metrics for ASR
 1. [HuggingFace Audio Course](https://huggingface.co/learn/audio-course/en/chapter5/evaluation)
