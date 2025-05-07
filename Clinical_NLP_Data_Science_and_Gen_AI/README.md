@@ -49,7 +49,8 @@
 ## Phenotyping
 1. [PheKB](https://phekb.org/)
 2. [PheCode](https://www.vumc.org/wei-lab/phecode)
-3. [AstraZeneca PheWAS Portal](https://azphewas.com/)
+3. [PheMap](https://wei-lab.app.vumc.org/phemap)
+4. [AstraZeneca PheWAS Portal](https://azphewas.com/)
 
 ---
 # Clinical Healthcare Knowledge Graphs & Graph Databases | Ontology Mapping, Linking, Resolution Resources
@@ -73,11 +74,12 @@
 
 ### Neo4j 
 1. [Neo4j - Construct a biomedical knowledge graph with NLP](https://medium.com/data-science/construct-a-biomedical-knowledge-graph-with-nlp-1f25eddc54a0)
-2. [Neo4j - Medical Subject Headings - MESH](https://neo4j.com/blog/developer/mesh-into-neo4j/)
-3. [Neo4j - Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://medium.com/neo4j/entity-linking-and-relationship-extraction-with-relik-in-llamaindex-ca18892c169f)
-4. [Neo4j - Exploring Electronic Health Records with MedCAT and Neo4j](https://medium.com/data-science/exploring-electronic-health-records-with-medcat-and-neo4j-f376c03d8eef)
-5. [Neo4j - FDA Adverse Event Reporting System Data](https://neo4j.com/blog/developer/healthcare-analytics-sandbox-load-and-analyze-fda-adverse-event-reporting-system-data-with-neo4j/)
-6. [Neo4j - Creating a Knowledge Graph for ICD Codes using LLMs](https://ai.gopubby.com/creating-a-knowledge-graph-for-icd-codes-using-llms-e6132523bd96)
+2. [Building a Healthcare Knowledge Graph RAG with Neo4j, LangChain, and Llama 3](https://www.e2enetworks.com/blog/building-a-healthcare-knowledge-graph-rag-with-neo4j-langchain-and-llama-3)
+3. [Neo4j - Medical Subject Headings - MESH](https://neo4j.com/blog/developer/mesh-into-neo4j/)
+4. [Neo4j - Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://medium.com/neo4j/entity-linking-and-relationship-extraction-with-relik-in-llamaindex-ca18892c169f)
+5. [Neo4j - Exploring Electronic Health Records with MedCAT and Neo4j](https://medium.com/data-science/exploring-electronic-health-records-with-medcat-and-neo4j-f376c03d8eef)
+6. [Neo4j - FDA Adverse Event Reporting System Data](https://neo4j.com/blog/developer/healthcare-analytics-sandbox-load-and-analyze-fda-adverse-event-reporting-system-data-with-neo4j/)
+7. [Neo4j - Creating a Knowledge Graph for ICD Codes using LLMs](https://ai.gopubby.com/creating-a-knowledge-graph-for-icd-codes-using-llms-e6132523bd96)
 
 ### TigerGraph
 1. [TigerGraph with BERN2 Biomedical Knowledge Graph](https://medium.com/@sudha.vijayakumar_74093/implementing-a-biomedical-knowledge-graph-using-bern2-and-tigergraph-56a5e670782a)
