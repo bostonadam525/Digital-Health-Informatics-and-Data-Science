@@ -22,14 +22,16 @@
 1. [MIDeL — Medical Image Deep Learning - Mayo Clinic Informatics](https://mayo-radiology-informatics-lab.github.io/MIDeL/index.html)
 2. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
 3. [Modern BERT Radiology Machine Learning -- multi label classifier](https://radml.substack.com/p/modernbert-in-radiology-part-1-simple)
-4. [Project MAIRA - Microsoft Open Source Models for Radiology Report Generation](https://www.microsoft.com/en-us/research/project/project-maira/)
-5. [RadBERT](https://github.com/zzxslp/RadBERT?tab=readme-ov-file)
-6. [PYCAD - DICOM medical imaging manipulation](https://github.com/amine0110/pycad)
-7. [Radiology-Infer-Mini - Multimodal Model](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini)
-8. [Radiology-Infer-Mini - Multimodal Model - hugging face files demo](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini/tree/main)
-9. [VLMs in Medical image diagnosis and classification](https://github.com/XiangQA-Q/VLM-in-MIA)
-10. [Awesome Vision-Language Models (VLMs) for Medical Report Generation (RG) and Visual Question Answering (VQA)](https://github.com/lab-rasool/Awesome-Medical-VLMs-and-Datasets)
-11. [Best Practices for Large Language Models in Radiology](https://arxiv.org/html/2412.01233v1)
+4. [Automating Radiology Workflows With Large Language Models (LLMs)](https://www.databricks.com/solutions/accelerators/automating-radiology-workflows-large-language-models-llms)
+   * [Automatic Assignment of Radiology Examination Protocols Using Pre-trained Language Models with Knowledge Distillation](https://pmc.ncbi.nlm.nih.gov/articles/PMC8861685/)
+6. [Project MAIRA - Microsoft Open Source Models for Radiology Report Generation](https://www.microsoft.com/en-us/research/project/project-maira/)
+7. [RadBERT](https://github.com/zzxslp/RadBERT?tab=readme-ov-file)
+8. [PYCAD - DICOM medical imaging manipulation](https://github.com/amine0110/pycad)
+9. [Radiology-Infer-Mini - Multimodal Model](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini)
+10. [Radiology-Infer-Mini - Multimodal Model - hugging face files demo](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini/tree/main)
+11. [VLMs in Medical image diagnosis and classification](https://github.com/XiangQA-Q/VLM-in-MIA)
+12. [Awesome Vision-Language Models (VLMs) for Medical Report Generation (RG) and Visual Question Answering (VQA)](https://github.com/lab-rasool/Awesome-Medical-VLMs-and-Datasets)
+13. [Best Practices for Large Language Models in Radiology](https://arxiv.org/html/2412.01233v1)
 
 ## Pathology & Histopathology Specific
 1. [Computer Vision for Histopathology](https://pixelscientia.com/articles/getting-started-with-computer-vision-for-histopathology/)
@@ -55,7 +57,7 @@
 ---
 # Clinical Healthcare Knowledge Graphs & Graph Databases | Ontology Mapping, Linking, Resolution Resources
 
-## Graph Resources
+## Knowledge Graph & Graph Database Resources
 
 ### Open Source Graphs
 1. [Puppy Graph - Healthcare](https://www.puppygraph.com/healthcare)
@@ -88,6 +90,25 @@
 
 ### Ontotext
 1. [PubMiner AI with Ontotext](https://www.ontotext.com/blog/advancing-automatic-knowledge-extraction-with-pubminer/)
+
+### Databricks
+1. [Building Patient Cohorts with NLP and Knowledge Graphs](https://www.databricks.com/blog/building-patient-cohorts-nlp-and-knowledge-graphs)
+2. [Cohort Building with Knowledge Graphs](https://www.databricks.com/solutions/accelerators/cohort-building)
+
+
+
+
+---
+## Graph Neural Networks
+
+### GNNs - General Resources
+1. [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html)
+2. [Stanford CS224W Graph Machine Learning Projects](https://medium.com/stanford-cs224w/task/home)
+
+### Graph Recomendation Algorithms
+1. [Better recommender systems with LightGCN](https://medium.com/@jn2279/better-recommender-systems-with-lightgcn-a0e764af14f9)
+2. [Explanation and Practice of Lightweight Graph Convolutional Network (LightGCN)](https://medium.com/@xiaolancara/explanation-and-practice-of-lightweight-graph-convolutional-network-lightgcn-ac30ac38469c)
+
 
 ---
 
