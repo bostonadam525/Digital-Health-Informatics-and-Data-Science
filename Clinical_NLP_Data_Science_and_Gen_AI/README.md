@@ -55,6 +55,16 @@
 4. [AstraZeneca PheWAS Portal](https://azphewas.com/)
 
 ---
+# Clinical Note Summarization with SLMs and LLMs
+1. [Clinical Notes Summarization Using Large Language Models (LLMs)](https://www.databricks.com/solutions/accelerators/jsl-clinical-notes-summarization-using-llm)
+
+---
+# Building Patient Cohorts 
+1. [OHDSI Defining Patient Cohorts](https://ohdsi.github.io/TheBookOfOhdsi/Cohorts.html)
+2. [Predicting Patient Disease Risk and Measuring Quality](https://www.databricks.com/solutions/accelerators/predicting-patient-disease-risk-and-measuring-quality)
+3. [How to build: Customer segmentation for personalization](https://www.databricks.com/solutions/accelerators/customer-segmentation)
+
+---
 # Clinical Healthcare Knowledge Graphs & Graph Databases | Ontology Mapping, Linking, Resolution Resources
 
 ## Knowledge Graph & Graph Database Resources
@@ -91,7 +101,7 @@
 ### Ontotext
 1. [PubMiner AI with Ontotext](https://www.ontotext.com/blog/advancing-automatic-knowledge-extraction-with-pubminer/)
 
-### Databricks
+### Databricks Knowledge Graphs
 1. [Building Patient Cohorts with NLP and Knowledge Graphs](https://www.databricks.com/blog/building-patient-cohorts-nlp-and-knowledge-graphs)
 2. [Cohort Building with Knowledge Graphs](https://www.databricks.com/solutions/accelerators/cohort-building)
 
