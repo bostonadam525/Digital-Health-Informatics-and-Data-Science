@@ -117,7 +117,7 @@
 ### Fixed Entity Architecture for KG's
 1. [Three-Layer Fixed Entity Architecture for Efficient RAG on Graphs](https://medium.com/@irina.karkkanen/three-layer-fixed-entity-architecture-for-efficient-rag-on-graphs-787c70e3151a)
 2. [Build your hybrid-Graph for RAG & GraphRAG applications using the power of NLP](https://medium.com/@irina.karkkanen/build-your-hybrid-graph-for-rag-graphrag-applications-using-the-power-of-nlp-57219b6e2adb)
-3. 
+3. [RAG on Graph using Fixed Entity Architecture: make you retrieval work for you](https://medium.com/@irina.karkkanen/rag-on-graph-db-using-fixed-entity-architecture-make-you-retrieval-work-for-you-f4bfcac5277f)
 
 ### Databricks Knowledge Graphs
 1. [Building Patient Cohorts with NLP and Knowledge Graphs](https://www.databricks.com/blog/building-patient-cohorts-nlp-and-knowledge-graphs)
