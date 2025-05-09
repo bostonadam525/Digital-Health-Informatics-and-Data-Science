@@ -20,18 +20,20 @@
 
 ## Radiology Specific
 1. [MIDeL — Medical Image Deep Learning - Mayo Clinic Informatics](https://mayo-radiology-informatics-lab.github.io/MIDeL/index.html)
-2. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
-3. [Modern BERT Radiology Machine Learning -- multi label classifier](https://radml.substack.com/p/modernbert-in-radiology-part-1-simple)
-4. [Automating Radiology Workflows With Large Language Models (LLMs)](https://www.databricks.com/solutions/accelerators/automating-radiology-workflows-large-language-models-llms)
+2. [MONAI - Medical Open Network for Artificial Intelligence](https://monai.io/index.html)
+3. [MONAI github](https://github.com/Project-MONAI)
+4. [RadGraph model](https://paperswithcode.com/dataset/radgraph)
+5. [Modern BERT Radiology Machine Learning -- multi label classifier](https://radml.substack.com/p/modernbert-in-radiology-part-1-simple)
+6. [Automating Radiology Workflows With Large Language Models (LLMs)](https://www.databricks.com/solutions/accelerators/automating-radiology-workflows-large-language-models-llms)
    * [Automatic Assignment of Radiology Examination Protocols Using Pre-trained Language Models with Knowledge Distillation](https://pmc.ncbi.nlm.nih.gov/articles/PMC8861685/)
-6. [Project MAIRA - Microsoft Open Source Models for Radiology Report Generation](https://www.microsoft.com/en-us/research/project/project-maira/)
-7. [RadBERT](https://github.com/zzxslp/RadBERT?tab=readme-ov-file)
-8. [PYCAD - DICOM medical imaging manipulation](https://github.com/amine0110/pycad)
-9. [Radiology-Infer-Mini - Multimodal Model](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini)
-10. [Radiology-Infer-Mini - Multimodal Model - hugging face files demo](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini/tree/main)
-11. [VLMs in Medical image diagnosis and classification](https://github.com/XiangQA-Q/VLM-in-MIA)
-12. [Awesome Vision-Language Models (VLMs) for Medical Report Generation (RG) and Visual Question Answering (VQA)](https://github.com/lab-rasool/Awesome-Medical-VLMs-and-Datasets)
-13. [Best Practices for Large Language Models in Radiology](https://arxiv.org/html/2412.01233v1)
+7. [Project MAIRA - Microsoft Open Source Models for Radiology Report Generation](https://www.microsoft.com/en-us/research/project/project-maira/)
+8. [RadBERT](https://github.com/zzxslp/RadBERT?tab=readme-ov-file)
+9. [PYCAD - DICOM medical imaging manipulation](https://github.com/amine0110/pycad)
+10. [Radiology-Infer-Mini - Multimodal Model](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini)
+11. [Radiology-Infer-Mini - Multimodal Model - hugging face files demo](https://huggingface.co/prithivMLmods/Radiology-Infer-Mini/tree/main)
+12. [VLMs in Medical image diagnosis and classification](https://github.com/XiangQA-Q/VLM-in-MIA)
+13. [Awesome Vision-Language Models (VLMs) for Medical Report Generation (RG) and Visual Question Answering (VQA)](https://github.com/lab-rasool/Awesome-Medical-VLMs-and-Datasets)
+14. [Best Practices for Large Language Models in Radiology](https://arxiv.org/html/2412.01233v1)
 
 ## Pathology & Histopathology Specific
 1. [Computer Vision for Histopathology](https://pixelscientia.com/articles/getting-started-with-computer-vision-for-histopathology/)
@@ -72,27 +74,38 @@
 ### Open Source Graphs
 1. [Puppy Graph - Healthcare](https://www.puppygraph.com/healthcare)
 2. [REBEL triplets extraction open source graph model](https://huggingface.co/Babelscape/rebel-large)
-3. [MemGraph](https://memgraph.com/)
-5. [Biomedical Knowledge Graph Implementation](https://github.com/alisonmitchell/Biomedical-Knowledge-Graph)
-6. [Awesome-HealthCare-KnowledgeBase](https://github.com/lujiaying/Awesome-HealthCare-KnowledgeBase)
-7. [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
-8. [Building a Knowledge Base from Texts: a Full Practical Example](https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
-9. [Building a knowledge base from Text with relation extraction, entity recognition and entity linking](https://www.nlplanet.org/course-practical-nlp/02-practical-nlp-first-tasks/16-knowledge-graph-from-text)
-10. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://medium.com/data-science/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759)
-11. [Make Meaningful Knowledge Graph from OpenSource REBEL Model](https://medium.com/@haiyangli_38602/make-meaningful-knowledge-graph-from-opensource-rebel-model-6f9729a55527)
-12. [Cognee - Enhancing Knowledge Graphs with Ontology Integration](https://www.cognee.ai/blog/deep-dives/ontology-ai-memory)
-13. [CocoIndex - Extract, Transform, Index Data. Easy and Fresh](https://github.com/cocoindex-io/cocoindex)
-14. [Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search](https://arxiv.org/html/2412.15256v1)
+3. [bew/t5_sentence_to_triplet_xl](https://huggingface.co/bew/t5_sentence_to_triplet_xl)
+4. [Building Knowledge Graphs: REBEL, LlamaIndex, and REBEL + LlamaIndex](https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115)
+5. [Building Knowledge Graphs with Rebel: Step By Step Guide for Extracting Entities & Enriching Info](https://medium.com/@kamaljp/building-knowledge-graphs-with-rebel-step-by-step-guide-for-extracting-entities-enriching-info-ec29f2566de)
+6. [Rebel + LlamaIndex Knowledge Graph Query Engine](https://colab.research.google.com/drive/1G6pcR0pXvSkdMQlAK_P-IrYgo-_staxd?usp=sharing#scrollTo=5mHzFSTbPbWf)
+7. [MemGraph](https://memgraph.com/)
+8. [Biomedical Knowledge Graph Implementation](https://github.com/alisonmitchell/Biomedical-Knowledge-Graph)
+9. [Awesome-HealthCare-KnowledgeBase](https://github.com/lujiaying/Awesome-HealthCare-KnowledgeBase)
+10. [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
+11. [Building a Knowledge Base from Texts: a Full Practical Example](https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
+12. [Building a knowledge base from Text with relation extraction, entity recognition and entity linking](https://www.nlplanet.org/course-practical-nlp/02-practical-nlp-first-tasks/16-knowledge-graph-from-text)
+13. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://medium.com/data-science/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759)
+14. [Make Meaningful Knowledge Graph from OpenSource REBEL Model](https://medium.com/@haiyangli_38602/make-meaningful-knowledge-graph-from-opensource-rebel-model-6f9729a55527)
+15. [Cognee - Enhancing Knowledge Graphs with Ontology Integration](https://www.cognee.ai/blog/deep-dives/ontology-ai-memory)
+16. [CocoIndex - Extract, Transform, Index Data. Easy and Fresh](https://github.com/cocoindex-io/cocoindex)
+17. [Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search](https://arxiv.org/html/2412.15256v1)
 
+### Temporal Knowledge Graphs
+1. [Graphiti: Temporal Knowledge Graphs for Agentic Apps](https://blog.getzep.com/graphiti-knowledge-graphs-for-agents/)
+2. [Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti?ref=blog.getzep.com)
 
 ### Neo4j 
 1. [Neo4j - Construct a biomedical knowledge graph with NLP](https://medium.com/data-science/construct-a-biomedical-knowledge-graph-with-nlp-1f25eddc54a0)
 2. [Building a Healthcare Knowledge Graph RAG with Neo4j, LangChain, and Llama 3](https://www.e2enetworks.com/blog/building-a-healthcare-knowledge-graph-rag-with-neo4j-langchain-and-llama-3)
-3. [Neo4j - Medical Subject Headings - MESH](https://neo4j.com/blog/developer/mesh-into-neo4j/)
-4. [Neo4j - Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://medium.com/neo4j/entity-linking-and-relationship-extraction-with-relik-in-llamaindex-ca18892c169f)
-5. [Neo4j - Exploring Electronic Health Records with MedCAT and Neo4j](https://medium.com/data-science/exploring-electronic-health-records-with-medcat-and-neo4j-f376c03d8eef)
-6. [Neo4j - FDA Adverse Event Reporting System Data](https://neo4j.com/blog/developer/healthcare-analytics-sandbox-load-and-analyze-fda-adverse-event-reporting-system-data-with-neo4j/)
-7. [Neo4j - Creating a Knowledge Graph for ICD Codes using LLMs](https://ai.gopubby.com/creating-a-knowledge-graph-for-icd-codes-using-llms-e6132523bd96)
+3. [Neo4j - RAG on CSV data with Knowledge Graph- Using RDFLib, RDFLib-Neo4j, and Langchain](https://medium.com/@fatimaparada.taboada/rag-on-csv-data-with-knowledge-graph-using-rdflib-rdflib-neo4j-and-langchain-4b12a114a20e)
+4. [Neo4j - Medical Subject Headings - MESH](https://neo4j.com/blog/developer/mesh-into-neo4j/)
+5. [Neo4j - Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://medium.com/neo4j/entity-linking-and-relationship-extraction-with-relik-in-llamaindex-ca18892c169f)
+6. [Neo4j - Integrating Microsoft GraphRAG into Neo4j](https://neo4j.com/blog/developer/microsoft-graphrag-neo4j/)
+7. [Neo4j - Exploring Electronic Health Records with MedCAT and Neo4j](https://medium.com/data-science/exploring-electronic-health-records-with-medcat-and-neo4j-f376c03d8eef)
+8. [Neo4j - FDA Adverse Event Reporting System Data](https://neo4j.com/blog/developer/healthcare-analytics-sandbox-load-and-analyze-fda-adverse-event-reporting-system-data-with-neo4j/)
+9. [Neo4j - Creating a Knowledge Graph for ICD Codes using LLMs](https://ai.gopubby.com/creating-a-knowledge-graph-for-icd-codes-using-llms-e6132523bd96)
+10. [Neo4j - Knowledge Graph Extraction and Challenges](https://neo4j.com/blog/developer/knowledge-graph-extraction-challenges/?utm_source=GSearch&utm_medium=PaidSearch&utm_campaign=Evergreen&utm_content=AMS-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA&gad_source=1&gad_campaignid=20973570601&gbraid=0AAAAADk9OYrFO8Z25uH3OY19fY1SZveKM&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZsARQ0nbJvFt4vbuCNxmYzIIVzHSbKKMfwGH07bH-l1XZpMJzze3hoCBQUQAvD_BwE)
+11. [Neo4j - Ontology Reasoning on Biomedical Data with Neo4j](https://medium.com/data-science/ontology-reasoning-on-biomedical-data-with-neo4j-20271aadf84f)
 
 ### TigerGraph
 1. [TigerGraph with BERN2 Biomedical Knowledge Graph](https://medium.com/@sudha.vijayakumar_74093/implementing-a-biomedical-knowledge-graph-using-bern2-and-tigergraph-56a5e670782a)
@@ -101,9 +114,19 @@
 ### Ontotext
 1. [PubMiner AI with Ontotext](https://www.ontotext.com/blog/advancing-automatic-knowledge-extraction-with-pubminer/)
 
+### Fixed Entity Architecture for KG's
+1. [Three-Layer Fixed Entity Architecture for Efficient RAG on Graphs](https://medium.com/@irina.karkkanen/three-layer-fixed-entity-architecture-for-efficient-rag-on-graphs-787c70e3151a)
+2. [Build your hybrid-Graph for RAG & GraphRAG applications using the power of NLP](https://medium.com/@irina.karkkanen/build-your-hybrid-graph-for-rag-graphrag-applications-using-the-power-of-nlp-57219b6e2adb)
+3. 
+
 ### Databricks Knowledge Graphs
 1. [Building Patient Cohorts with NLP and Knowledge Graphs](https://www.databricks.com/blog/building-patient-cohorts-nlp-and-knowledge-graphs)
 2. [Cohort Building with Knowledge Graphs](https://www.databricks.com/solutions/accelerators/cohort-building)
+3. [How to Build a GraphRAG App](https://medium.com/data-science/how-to-build-a-graph-rag-app-b323fc33ba06)
+   * [Github repo](https://github.com/SteveHedden/kg_llm/tree/main)
+4. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://towardsdatascience.com/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759/)
+5. [Exploring Data Products in Databricks Unity Catalog with a Knowledge Graph](https://medium.com/@salah.uddin_75300/exploring-data-products-in-databricks-unity-catalog-with-a-knowledge-graph-0cb697f9f526)
+6. [Building Knowledge Graph in Neo4j using PySpark](https://medium.com/@pallavisinha12/building-knowledge-graph-in-neo4j-using-pyspark-de9e065b4b19)
 
 
 
@@ -114,10 +137,14 @@
 ### GNNs - General Resources
 1. [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html)
 2. [Stanford CS224W Graph Machine Learning Projects](https://medium.com/stanford-cs224w/task/home)
+3. [Graph Neural Networks with PyG on Node Classification, Link Prediction, and Anomaly Detection](https://towardsdatascience.com/graph-neural-networks-with-pyg-on-node-classification-link-prediction-and-anomaly-detection-14aa38fe1275/)
+4. [Graphs to Graph Neural Networks: From Fundamentals to Applications — Part 2b: Knowledge Graphs](https://kargarisaac.medium.com/graphs-to-graph-neural-networks-from-fundamentals-to-applications-part-2b-knowledge-graphs-841f21dca7c3)
 
 ### Graph Recomendation Algorithms
 1. [Better recommender systems with LightGCN](https://medium.com/@jn2279/better-recommender-systems-with-lightgcn-a0e764af14f9)
 2. [Explanation and Practice of Lightweight Graph Convolutional Network (LightGCN)](https://medium.com/@xiaolancara/explanation-and-practice-of-lightweight-graph-convolutional-network-lightgcn-ac30ac38469c)
+3. [GNNs-part-3-how-GraphSage-handles-changing-graph-structures](https://towardsdatascience.com/graph-neural-networks-part-3-how-graphsage-handles-changing-graph-structure/)
+4. [Graph Convolutional Networks for NLP Using Comet](https://heartbeat.comet.ml/graph-convolutional-networks-for-nlp-using-comet-7f97b4c4f14f)
 
 
 ---
@@ -144,14 +171,18 @@
 
 6. [Improving biomedical entity linking for complex entity mentions with LLM-based text simplification](https://pmc.ncbi.nlm.nih.gov/articles/PMC11281847/)
 
+7. [Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://neo4j.com/blog/developer/entity-linking-relationship-extraction-relik-llamaindex/?utm_source=GSearch&utm_medium=PaidSearch&utm_campaign=Evergreen&utm_content=AMS-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA&gad_source=1&gad_campaignid=20973570601&gbraid=0AAAAADk9OYrFO8Z25uH3OY19fY1SZveKM&gclid=CjwKCAjwz_bABhAGEiwAm-P8YV8UGMMDXE-dxe1A1lGUpRYP6GWkU6qxz_ea4o9P5ecwU5_4_3bd7xoCRzcQAvD_BwE)
+
 
 ### Named Entity Recognition (NER)
-1. [On-the-fly Definition Augmentation of LLMs for Biomedical NER](https://arxiv.org/html/2404.00152v2)
-2. [Github - On-the-fly Definition Augmentation of LLMs for Biomedical NER](https://github.com/allenai/beacon)
-3. [AstraZeneca Kazu - Biomedical NLP Framework](https://github.com/AstraZeneca/KAZU)
-4. [BERN2 - Advanced Biomedical Entity Recognition and Normalization](https://github.com/dmis-lab/BERN2)
-5. [UMLS KGI BERT arxiv paper](https://arxiv.org/html/2307.11170v2)
-6. [UMLS KGI BERT hugging face english model](https://huggingface.co/a-mannion/umls-kgi-bert-en)
+1. [Text Analytics for Health - MSFT](https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/overview?tabs=ner)
+2. [Employing AWS Comprehend Medical for Medical Data Extraction in Healthcare Analytics](https://medium.com/@romina.elena.mendez/employing-aws-comprehend-medical-for-medical-data-extraction-in-healthcare-analytics-9f79556647ac)
+3. [On-the-fly Definition Augmentation of LLMs for Biomedical NER](https://arxiv.org/html/2404.00152v2)
+4. [Github - On-the-fly Definition Augmentation of LLMs for Biomedical NER](https://github.com/allenai/beacon)
+5. [AstraZeneca Kazu - Biomedical NLP Framework](https://github.com/AstraZeneca/KAZU)
+6. [BERN2 - Advanced Biomedical Entity Recognition and Normalization](https://github.com/dmis-lab/BERN2)
+7. [UMLS KGI BERT arxiv paper](https://arxiv.org/html/2307.11170v2)
+8. [UMLS KGI BERT hugging face english model](https://huggingface.co/a-mannion/umls-kgi-bert-en)
 
 ---
 # Veterinary Medicine Resources
