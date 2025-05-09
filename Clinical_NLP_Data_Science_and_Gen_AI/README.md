@@ -96,7 +96,7 @@
 
 ### Neo4j 
 1. [Neo4j - Construct a biomedical knowledge graph with NLP](https://medium.com/data-science/construct-a-biomedical-knowledge-graph-with-nlp-1f25eddc54a0)
-2. [Building a Healthcare Knowledge Graph RAG with Neo4j, LangChain, and Llama 3](https://www.e2enetworks.com/blog/building-a-healthcare-knowledge-graph-rag-with-neo4j-langchain-and-llama-3)
+2. [Neo4j - Building a Healthcare Knowledge Graph RAG with Neo4j, LangChain, and Llama 3](https://www.e2enetworks.com/blog/building-a-healthcare-knowledge-graph-rag-with-neo4j-langchain-and-llama-3)
 3. [Neo4j - RAG on CSV data with Knowledge Graph- Using RDFLib, RDFLib-Neo4j, and Langchain](https://medium.com/@fatimaparada.taboada/rag-on-csv-data-with-knowledge-graph-using-rdflib-rdflib-neo4j-and-langchain-4b12a114a20e)
 4. [Neo4j - Medical Subject Headings - MESH](https://neo4j.com/blog/developer/mesh-into-neo4j/)
 5. [Neo4j - Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://medium.com/neo4j/entity-linking-and-relationship-extraction-with-relik-in-llamaindex-ca18892c169f)
