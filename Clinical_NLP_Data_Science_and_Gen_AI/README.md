@@ -70,6 +70,7 @@
 11. [Make Meaningful Knowledge Graph from OpenSource REBEL Model](https://medium.com/@haiyangli_38602/make-meaningful-knowledge-graph-from-opensource-rebel-model-6f9729a55527)
 12. [Cognee - Enhancing Knowledge Graphs with Ontology Integration](https://www.cognee.ai/blog/deep-dives/ontology-ai-memory)
 13. [CocoIndex - Extract, Transform, Index Data. Easy and Fresh](https://github.com/cocoindex-io/cocoindex)
+14. [Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search](https://arxiv.org/html/2412.15256v1)
 
 
 ### Neo4j 
