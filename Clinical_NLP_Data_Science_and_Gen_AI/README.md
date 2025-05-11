@@ -67,6 +67,16 @@
 3. [How to build: Customer segmentation for personalization](https://www.databricks.com/solutions/accelerators/customer-segmentation)
 
 ---
+# FHIR and Generative AI
+1. [RAG on FHIR](https://medium.com/@samschifman/rag-on-fhir-29a9771f49b6)
+2. [RAG on FHIR with Knowledge Graphs](https://medium.com/@samschifman/rag-on-fhir-with-knowledge-graphs-04d8e13ee96e)
+3. [RAG on FHIR github](https://github.com/samschifman/RAG_on_FHIR/tree/main)
+4. [Leveraging FHIR Data in Python Spark: Unlocking Healthcare Insights](https://medium.com/@fhirfly/leveraging-fhir-data-in-python-spark-unlocking-healthcare-insights-77f62e208215)
+5. [Building a Hybrid Model for Structured FHIR Data Classification](https://medium.com/@fhirfly/building-a-hybrid-model-for-structured-fhir-data-classification-80290dd52791)
+6. [Healthcare Data Optimization: Parsing FHIR data into RAG](https://blog.xmartlabs.com/blog/fhir-data-optimization-rag-systems/)
+
+
+---
 # Clinical Healthcare Knowledge Graphs & Graph Databases | Ontology Mapping, Linking, Resolution Resources
 
 ## Knowledge Graph & Graph Database Resources
@@ -93,6 +103,9 @@
 ### Temporal Knowledge Graphs
 1. [Graphiti: Temporal Knowledge Graphs for Agentic Apps](https://blog.getzep.com/graphiti-knowledge-graphs-for-agents/)
 2. [Build Real-Time Knowledge Graphs for AI Agents](https://github.com/getzep/graphiti?ref=blog.getzep.com)
+
+### MongoDB
+1. [Knowledge Graph RAG Using MongoDB](https://medium.com/mongodb/knowledge-graph-rag-using-mongodb-1346e953064c)
 
 ### Neo4j 
 1. [Neo4j - Construct a biomedical knowledge graph with NLP](https://medium.com/data-science/construct-a-biomedical-knowledge-graph-with-nlp-1f25eddc54a0)
@@ -122,11 +135,12 @@
 ### Databricks Knowledge Graphs
 1. [Building Patient Cohorts with NLP and Knowledge Graphs](https://www.databricks.com/blog/building-patient-cohorts-nlp-and-knowledge-graphs)
 2. [Cohort Building with Knowledge Graphs](https://www.databricks.com/solutions/accelerators/cohort-building)
-3. [How to Build a GraphRAG App](https://medium.com/data-science/how-to-build-a-graph-rag-app-b323fc33ba06)
+3. [Building, Improving, and Deploying Knowledge Graph RAG Systems on Databricks](https://www.databricks.com/blog/building-improving-and-deploying-knowledge-graph-rag-systems-databricks)
+4. [How to Build a GraphRAG App](https://medium.com/data-science/how-to-build-a-graph-rag-app-b323fc33ba06)
    * [Github repo](https://github.com/SteveHedden/kg_llm/tree/main)
-4. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://towardsdatascience.com/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759/)
-5. [Exploring Data Products in Databricks Unity Catalog with a Knowledge Graph](https://medium.com/@salah.uddin_75300/exploring-data-products-in-databricks-unity-catalog-with-a-knowledge-graph-0cb697f9f526)
-6. [Building Knowledge Graph in Neo4j using PySpark](https://medium.com/@pallavisinha12/building-knowledge-graph-in-neo4j-using-pyspark-de9e065b4b19)
+5. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://towardsdatascience.com/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759/)
+6. [Exploring Data Products in Databricks Unity Catalog with a Knowledge Graph](https://medium.com/@salah.uddin_75300/exploring-data-products-in-databricks-unity-catalog-with-a-knowledge-graph-0cb697f9f526)
+7. [Building Knowledge Graph in Neo4j using PySpark](https://medium.com/@pallavisinha12/building-knowledge-graph-in-neo4j-using-pyspark-de9e065b4b19)
 
 
 
