@@ -34,6 +34,7 @@
 12. [VLMs in Medical image diagnosis and classification](https://github.com/XiangQA-Q/VLM-in-MIA)
 13. [Awesome Vision-Language Models (VLMs) for Medical Report Generation (RG) and Visual Question Answering (VQA)](https://github.com/lab-rasool/Awesome-Medical-VLMs-and-Datasets)
 14. [Best Practices for Large Language Models in Radiology](https://arxiv.org/html/2412.01233v1)
+15. [MedSAM: Segment Anything in Medical Images](https://github.com/bowang-lab/MedSAM)
 
 ## Pathology & Histopathology Specific
 1. [Computer Vision for Histopathology](https://pixelscientia.com/articles/getting-started-with-computer-vision-for-histopathology/)
