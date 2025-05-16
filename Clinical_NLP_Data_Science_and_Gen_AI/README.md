@@ -84,22 +84,25 @@
 
 ### Open Source Graphs
 1. [Puppy Graph - Healthcare](https://www.puppygraph.com/healthcare)
-2. [REBEL triplets extraction open source graph model](https://huggingface.co/Babelscape/rebel-large)
-3. [bew/t5_sentence_to_triplet_xl](https://huggingface.co/bew/t5_sentence_to_triplet_xl)
-4. [Building Knowledge Graphs: REBEL, LlamaIndex, and REBEL + LlamaIndex](https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115)
-5. [Building Knowledge Graphs with Rebel: Step By Step Guide for Extracting Entities & Enriching Info](https://medium.com/@kamaljp/building-knowledge-graphs-with-rebel-step-by-step-guide-for-extracting-entities-enriching-info-ec29f2566de)
-6. [Rebel + LlamaIndex Knowledge Graph Query Engine](https://colab.research.google.com/drive/1G6pcR0pXvSkdMQlAK_P-IrYgo-_staxd?usp=sharing#scrollTo=5mHzFSTbPbWf)
-7. [MemGraph](https://memgraph.com/)
-8. [Biomedical Knowledge Graph Implementation](https://github.com/alisonmitchell/Biomedical-Knowledge-Graph)
-9. [Awesome-HealthCare-KnowledgeBase](https://github.com/lujiaying/Awesome-HealthCare-KnowledgeBase)
-10. [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
-11. [Building a Knowledge Base from Texts: a Full Practical Example](https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
-12. [Building a knowledge base from Text with relation extraction, entity recognition and entity linking](https://www.nlplanet.org/course-practical-nlp/02-practical-nlp-first-tasks/16-knowledge-graph-from-text)
-13. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://medium.com/data-science/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759)
-14. [Make Meaningful Knowledge Graph from OpenSource REBEL Model](https://medium.com/@haiyangli_38602/make-meaningful-knowledge-graph-from-opensource-rebel-model-6f9729a55527)
-15. [Cognee - Enhancing Knowledge Graphs with Ontology Integration](https://www.cognee.ai/blog/deep-dives/ontology-ai-memory)
-16. [CocoIndex - Extract, Transform, Index Data. Easy and Fresh](https://github.com/cocoindex-io/cocoindex)
-17. [Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search](https://arxiv.org/html/2412.15256v1)
+2. [Dgraph](https://docs.hypermode.com/dgraph/overview)
+3. [GdotV - Graph DB](https://gdotv.com/)
+4. [KuzuDB - Embedded Graph DB](https://kuzudb.com/)
+5. [REBEL triplets extraction open source graph model](https://huggingface.co/Babelscape/rebel-large)
+6. [bew/t5_sentence_to_triplet_xl](https://huggingface.co/bew/t5_sentence_to_triplet_xl)
+7. [Building Knowledge Graphs: REBEL, LlamaIndex, and REBEL + LlamaIndex](https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115)
+8. [Building Knowledge Graphs with Rebel: Step By Step Guide for Extracting Entities & Enriching Info](https://medium.com/@kamaljp/building-knowledge-graphs-with-rebel-step-by-step-guide-for-extracting-entities-enriching-info-ec29f2566de)
+9. [Rebel + LlamaIndex Knowledge Graph Query Engine](https://colab.research.google.com/drive/1G6pcR0pXvSkdMQlAK_P-IrYgo-_staxd?usp=sharing#scrollTo=5mHzFSTbPbWf)
+10. [MemGraph](https://memgraph.com/)
+11. [Biomedical Knowledge Graph Implementation](https://github.com/alisonmitchell/Biomedical-Knowledge-Graph)
+12. [Awesome-HealthCare-KnowledgeBase](https://github.com/lujiaying/Awesome-HealthCare-KnowledgeBase)
+13. [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
+14. [Building a Knowledge Base from Texts: a Full Practical Example](https://medium.com/nlplanet/building-a-knowledge-base-from-texts-a-full-practical-example-8dbbffb912fa)
+15. [Building a knowledge base from Text with relation extraction, entity recognition and entity linking](https://www.nlplanet.org/course-practical-nlp/02-practical-nlp-first-tasks/16-knowledge-graph-from-text)
+16. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://medium.com/data-science/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759)
+17. [Make Meaningful Knowledge Graph from OpenSource REBEL Model](https://medium.com/@haiyangli_38602/make-meaningful-knowledge-graph-from-opensource-rebel-model-6f9729a55527)
+18. [Cognee - Enhancing Knowledge Graphs with Ontology Integration](https://www.cognee.ai/blog/deep-dives/ontology-ai-memory)
+19. [CocoIndex - Extract, Transform, Index Data. Easy and Fresh](https://github.com/cocoindex-io/cocoindex)
+20. [Structured Extraction of Real World Medical Knowledge using LLMs for Summarization and Search](https://arxiv.org/html/2412.15256v1)
 
 ### Temporal Knowledge Graphs
 1. [Graphiti: Temporal Knowledge Graphs for Agentic Apps](https://blog.getzep.com/graphiti-knowledge-graphs-for-agents/)
@@ -142,7 +145,9 @@
 5. [How to Implement Graph RAG Using Knowledge Graphs and Vector Databases](https://towardsdatascience.com/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759/)
 6. [Exploring Data Products in Databricks Unity Catalog with a Knowledge Graph](https://medium.com/@salah.uddin_75300/exploring-data-products-in-databricks-unity-catalog-with-a-knowledge-graph-0cb697f9f526)
 7. [Building Knowledge Graph in Neo4j using PySpark](https://medium.com/@pallavisinha12/building-knowledge-graph-in-neo4j-using-pyspark-de9e065b4b19)
-
+8. [Zingg Entity Resolution on Databricks](https://www.zingg.ai/product/entity-and-identity-resolution-for-databricks/databricks)
+   * [Step by Step Identity Resolution With Zingg on Databricks](https://medium.com/@sonalgoyal/step-by-step-identity-resolution-with-zingg-on-databricks-850b8f4b8198)
+9. [Databricks Customer Entity Resolution](https://www.databricks.com/solutions/accelerators/customer-entity-resolution)
 
 
 
@@ -172,6 +177,10 @@
 3. [John Snow Labs - Mapping Rxnorm and NDC Codes to the National Institute of Health (NIH) Drug Brand Names with Spark NLP](https://medium.com/john-snow-labs/mapping-rxnorm-and-ndc-codes-to-the-nih-drug-brand-names-with-spark-nlp-e10eeb7e122c)
 4. [x-MEN - Cross-lingual (x) Medical Entity Normalization](https://github.com/hpi-dhc/xmen)
 5. [OntoGPT](https://github.com/monarch-initiative/ontogpt)
+6. [Senzing - Entity Resolution](https://senzing.com/)
+7. [Zingg Entity Resolution](https://www.zingg.ai/product/entity-and-identity-resolution-for-databricks/databricks)
+8. [spaCy Coreferee Entity Resolution](https://spacy.io/universe/project/coreferee?ref=hackernoon.com)
+9. [Maverick Coref - Entity Resolution](https://github.com/SapienzaNLP/maverick-coref?ref=hackernoon.com)
 
 ### Entity Linking
 1. [SNOBERT: A Benchmark for clinical notes entity linking in the SNOMED CT clinical terminology](https://github.com/MikhailKulyabin/SNOBERT)
@@ -198,6 +207,7 @@
 6. [BERN2 - Advanced Biomedical Entity Recognition and Normalization](https://github.com/dmis-lab/BERN2)
 7. [UMLS KGI BERT arxiv paper](https://arxiv.org/html/2307.11170v2)
 8. [UMLS KGI BERT hugging face english model](https://huggingface.co/a-mannion/umls-kgi-bert-en)
+9. [Universal NER Benchmark](https://universal-ner.github.io/)
 
 ---
 # Veterinary Medicine Resources
