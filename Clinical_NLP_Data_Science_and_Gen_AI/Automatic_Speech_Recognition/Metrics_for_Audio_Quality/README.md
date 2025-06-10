@@ -20,3 +20,4 @@
 6. [Audio Generation Evaluation](https://github.com/haoheliu/audioldm_eval?tab=readme-ov-file)
 7. [Mel-Refine: A Plug-and-Play Approach to Refine Mel-Spectrogram in Audio Generation](https://arxiv.org/html/2412.08577v1)
 8. [Assessing Audio Quality with Deep Learning](https://medium.com/better-programming/assessing-audio-quality-with-deep-learning-f66d1761f938)
+9. [“From Noise to Music: Analyzing Audio with Python and Librosa”](https://medium.com/@joshiprerak123/from-noise-to-music-analyzing-audio-with-python-and-librosa-4a4ea5b1b805)
